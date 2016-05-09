@@ -1,0 +1,12 @@
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\bin\Debug\First Come First Served.exe.config
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\bin\Debug\First Come First Served.exe
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\bin\Debug\First Come First Served.pdb
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\obj\Debug\First Come First Served.csprojResolveAssemblyReference.cache
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\obj\Debug\First Come First Served.exe
+c:\users\piotr\documents\visual studio 2015\Projects\First Come First Served\First Come First Served\obj\Debug\First Come First Served.pdb
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\bin\Debug\First Come First Served.exe.config
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\obj\Debug\First Come First Served.exe
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\obj\Debug\First Come First Served.pdb
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\bin\Debug\First Come First Served.exe
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\bin\Debug\First Come First Served.pdb
+D:\Education\3 курс 6 семестр\Интегрированные информационные системы\Методические указания к лабораторным работам\First Come First Served\First Come First Served\obj\Debug\First Come First Served.csprojResolveAssemblyReference.cache
