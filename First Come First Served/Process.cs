@@ -4,7 +4,7 @@ using System.IO;
 
 namespace First_Come_First_Served
 {
-    class Process
+    class Process : IProcess
     {
         #region переменные
         private string processName;

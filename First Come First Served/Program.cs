@@ -11,7 +11,7 @@ namespace First_Come_First_Served
     {
         static void Main(string[] args)
         {
-            Process process = new Process();
+            IProcess process = new Process();
             string filePath = Environment.CurrentDirectory.ToString();
             process.FileExisting(filePath);
             string fileText = File.ReadAllText(filePath + @"\Processes.txt");
